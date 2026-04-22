@@ -1,0 +1,400 @@
+client-10 | CHANGED | rc=0 >>
+Connecting to host 10.0.0.200, port 5210
+[  5] local 10.0.0.110 port 37936 connected to 10.0.0.200 port 5210
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  6.50 MBytes  54.5 Mbits/sec  150   84.2 KBytes       
+[  5]   1.00-2.00   sec  5.88 MBytes  49.3 Mbits/sec    7   94.9 KBytes       
+[  5]   2.00-3.00   sec  6.88 MBytes  57.7 Mbits/sec   18   96.2 KBytes       
+[  5]   3.00-4.00   sec  6.50 MBytes  54.5 Mbits/sec   33   98.9 KBytes       
+[  5]   4.00-5.00   sec  5.25 MBytes  44.0 Mbits/sec   34   50.8 KBytes       
+[  5]   5.00-6.00   sec  3.38 MBytes  28.3 Mbits/sec    1   74.8 KBytes       
+[  5]   6.00-7.00   sec  5.25 MBytes  44.1 Mbits/sec   14   80.2 KBytes       
+[  5]   7.00-8.00   sec  5.50 MBytes  46.0 Mbits/sec    3   92.2 KBytes       
+[  5]   8.00-9.00   sec  7.25 MBytes  60.8 Mbits/sec    0    139 KBytes       
+[  5]   9.00-10.00  sec  9.00 MBytes  75.6 Mbits/sec   18    128 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  61.4 MBytes  51.5 Mbits/sec  278            sender
+[  5]   0.00-10.01  sec  60.8 MBytes  50.9 Mbits/sec                  receiver
+
+iperf Done.
+client-13 | CHANGED | rc=0 >>
+Connecting to host 10.0.0.200, port 5213
+[  5] local 10.0.0.113 port 56626 connected to 10.0.0.200 port 5213
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  4.88 MBytes  40.8 Mbits/sec  116   61.5 KBytes       
+[  5]   1.00-2.00   sec  4.12 MBytes  34.6 Mbits/sec    6   78.8 KBytes       
+[  5]   2.00-3.00   sec  3.75 MBytes  31.4 Mbits/sec   35   52.1 KBytes       
+[  5]   3.00-4.00   sec  3.25 MBytes  27.3 Mbits/sec   10   57.4 KBytes       
+[  5]   4.00-5.00   sec  4.38 MBytes  36.7 Mbits/sec    0   98.9 KBytes       
+[  5]   5.00-6.00   sec  4.38 MBytes  36.7 Mbits/sec   44   53.4 KBytes       
+[  5]   6.00-7.00   sec  4.25 MBytes  35.7 Mbits/sec    0   96.2 KBytes       
+[  5]   7.00-8.00   sec  5.25 MBytes  44.0 Mbits/sec    6   73.5 KBytes       
+[  5]   8.00-9.00   sec  5.75 MBytes  48.2 Mbits/sec    2   82.8 KBytes       
+[  5]   9.00-10.00  sec  5.12 MBytes  43.0 Mbits/sec   13   94.9 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  45.1 MBytes  37.8 Mbits/sec  232            sender
+[  5]   0.00-10.01  sec  44.9 MBytes  37.6 Mbits/sec                  receiver
+
+iperf Done.
+client-02 | CHANGED | rc=0 >>
+Connecting to host 10.0.0.200, port 5202
+[  5] local 10.0.0.102 port 54472 connected to 10.0.0.200 port 5202
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  7.25 MBytes  60.8 Mbits/sec  293   69.5 KBytes       
+[  5]   1.00-2.00   sec  5.12 MBytes  43.0 Mbits/sec    0    112 KBytes       
+[  5]   2.00-3.00   sec  5.88 MBytes  49.3 Mbits/sec   12   85.5 KBytes       
+[  5]   3.00-4.00   sec  4.50 MBytes  37.7 Mbits/sec   75   45.4 KBytes       
+[  5]   4.00-5.00   sec  3.25 MBytes  27.3 Mbits/sec   12   49.4 KBytes       
+[  5]   5.00-6.00   sec  3.88 MBytes  32.5 Mbits/sec    0   90.8 KBytes       
+[  5]   6.00-7.00   sec  3.88 MBytes  32.5 Mbits/sec   18   57.4 KBytes       
+[  5]   7.00-8.00   sec  3.75 MBytes  31.5 Mbits/sec   16   58.8 KBytes       
+[  5]   8.00-9.00   sec  4.75 MBytes  39.7 Mbits/sec   21   74.8 KBytes       
+[  5]   9.00-10.00  sec  3.75 MBytes  31.5 Mbits/sec   62   46.8 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  46.0 MBytes  38.6 Mbits/sec  509            sender
+[  5]   0.00-10.02  sec  45.2 MBytes  37.9 Mbits/sec                  receiver
+
+iperf Done.
+client-07 | CHANGED | rc=0 >>
+Connecting to host 10.0.0.200, port 5207
+[  5] local 10.0.0.107 port 57652 connected to 10.0.0.200 port 5207
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  11.2 MBytes  94.3 Mbits/sec  334    212 KBytes       
+[  5]   1.00-2.00   sec  10.5 MBytes  88.1 Mbits/sec   90    127 KBytes       
+[  5]   2.00-3.00   sec  6.88 MBytes  57.7 Mbits/sec   57   92.2 KBytes       
+[  5]   3.00-4.00   sec  5.88 MBytes  49.3 Mbits/sec   10   69.5 KBytes       
+[  5]   4.00-5.00   sec  4.50 MBytes  37.7 Mbits/sec    1   86.8 KBytes       
+[  5]   5.00-6.00   sec  4.38 MBytes  36.7 Mbits/sec   15   68.1 KBytes       
+[  5]   6.00-7.00   sec  4.50 MBytes  37.7 Mbits/sec   45   77.5 KBytes       
+[  5]   7.00-8.00   sec  3.88 MBytes  32.5 Mbits/sec   10   49.4 KBytes       
+[  5]   8.00-9.00   sec  4.00 MBytes  33.5 Mbits/sec    4   77.5 KBytes       
+[  5]   9.00-10.00  sec  3.88 MBytes  32.5 Mbits/sec   37   69.5 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  59.6 MBytes  50.0 Mbits/sec  603            sender
+[  5]   0.00-10.01  sec  58.5 MBytes  49.0 Mbits/sec                  receiver
+
+iperf Done.
+client-04 | CHANGED | rc=0 >>
+Connecting to host 10.0.0.200, port 5204
+[  5] local 10.0.0.104 port 43690 connected to 10.0.0.200 port 5204
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  3.62 MBytes  30.4 Mbits/sec   97   42.8 KBytes       
+[  5]   1.00-2.00   sec  3.00 MBytes  25.2 Mbits/sec   11   68.1 KBytes       
+[  5]   2.00-3.00   sec  4.38 MBytes  36.7 Mbits/sec   12   64.1 KBytes       
+[  5]   3.00-4.00   sec  4.50 MBytes  37.8 Mbits/sec    1   84.2 KBytes       
+[  5]   4.00-5.00   sec  5.38 MBytes  45.0 Mbits/sec   19   90.8 KBytes       
+[  5]   5.00-6.00   sec  5.00 MBytes  41.9 Mbits/sec   34   97.5 KBytes       
+[  5]   6.00-7.00   sec  5.12 MBytes  43.0 Mbits/sec    9    104 KBytes       
+[  5]   7.00-8.00   sec  4.75 MBytes  39.8 Mbits/sec    3   61.5 KBytes       
+[  5]   8.00-9.00   sec  4.75 MBytes  39.9 Mbits/sec    3   76.1 KBytes       
+[  5]   9.00-10.00  sec  5.38 MBytes  45.0 Mbits/sec    3   88.2 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  45.9 MBytes  38.5 Mbits/sec  192            sender
+[  5]   0.00-10.02  sec  45.6 MBytes  38.2 Mbits/sec                  receiver
+
+iperf Done.
+client-01 | CHANGED | rc=0 >>
+Connecting to host 10.0.0.200, port 5201
+[  5] local 10.0.0.101 port 34070 connected to 10.0.0.200 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  5.00 MBytes  41.9 Mbits/sec  100   77.5 KBytes       
+[  5]   1.00-2.00   sec  5.50 MBytes  46.1 Mbits/sec    2   82.8 KBytes       
+[  5]   2.00-3.00   sec  5.25 MBytes  44.0 Mbits/sec   27   65.5 KBytes       
+[  5]   3.00-4.00   sec  5.00 MBytes  41.9 Mbits/sec    8   76.1 KBytes       
+[  5]   4.00-5.00   sec  3.25 MBytes  27.3 Mbits/sec   12   54.8 KBytes       
+[  5]   5.00-6.00   sec  2.88 MBytes  24.1 Mbits/sec    9   52.1 KBytes       
+[  5]   6.00-7.00   sec  3.75 MBytes  31.5 Mbits/sec   10   69.5 KBytes       
+[  5]   7.00-8.00   sec  4.38 MBytes  36.7 Mbits/sec    4   61.5 KBytes       
+[  5]   8.00-9.00   sec  3.75 MBytes  31.4 Mbits/sec   50   57.4 KBytes       
+[  5]   9.00-10.00  sec  3.88 MBytes  32.5 Mbits/sec    4   58.8 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  42.6 MBytes  35.7 Mbits/sec  226            sender
+[  5]   0.00-10.02  sec  42.1 MBytes  35.3 Mbits/sec                  receiver
+
+iperf Done.
+client-16 | CHANGED | rc=0 >>
+Connecting to host 10.0.0.200, port 5216
+[  5] local 10.0.0.116 port 57118 connected to 10.0.0.200 port 5216
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  4.25 MBytes  35.6 Mbits/sec   59   82.8 KBytes       
+[  5]   1.00-2.00   sec  4.88 MBytes  41.0 Mbits/sec   10   96.2 KBytes       
+[  5]   2.00-3.00   sec  5.88 MBytes  49.3 Mbits/sec    4    110 KBytes       
+[  5]   3.00-4.00   sec  6.00 MBytes  50.3 Mbits/sec   35   80.2 KBytes       
+[  5]   4.00-5.00   sec  4.62 MBytes  38.8 Mbits/sec   20   65.5 KBytes       
+[  5]   5.00-6.00   sec  4.00 MBytes  33.6 Mbits/sec   25   56.1 KBytes       
+[  5]   6.00-7.00   sec  2.75 MBytes  23.1 Mbits/sec    7   62.8 KBytes       
+[  5]   7.00-8.00   sec  5.25 MBytes  44.0 Mbits/sec    9   74.8 KBytes       
+[  5]   8.00-9.00   sec  5.12 MBytes  43.1 Mbits/sec   24   61.5 KBytes       
+[  5]   9.00-10.00  sec  5.00 MBytes  41.9 Mbits/sec    0    106 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  47.8 MBytes  40.0 Mbits/sec  193            sender
+[  5]   0.00-10.02  sec  47.5 MBytes  39.8 Mbits/sec                  receiver
+
+iperf Done.
+client-14 | CHANGED | rc=0 >>
+Connecting to host 10.0.0.200, port 5214
+[  5] local 10.0.0.114 port 54808 connected to 10.0.0.200 port 5214
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  6.00 MBytes  50.3 Mbits/sec   55    103 KBytes       
+[  5]   1.00-2.00   sec  5.38 MBytes  45.1 Mbits/sec   36   74.8 KBytes       
+[  5]   2.00-3.00   sec  4.75 MBytes  39.9 Mbits/sec   11   65.5 KBytes       
+[  5]   3.00-4.00   sec  5.12 MBytes  43.0 Mbits/sec    8   78.8 KBytes       
+[  5]   4.00-5.00   sec  5.00 MBytes  41.9 Mbits/sec   32   58.8 KBytes       
+[  5]   5.00-6.00   sec  4.62 MBytes  38.8 Mbits/sec    0    100 KBytes       
+[  5]   6.00-7.00   sec  5.12 MBytes  43.0 Mbits/sec   29   76.1 KBytes       
+[  5]   7.00-8.00   sec  6.25 MBytes  52.4 Mbits/sec    0    120 KBytes       
+[  5]   8.00-9.00   sec  6.50 MBytes  54.5 Mbits/sec   50   89.5 KBytes       
+[  5]   9.00-10.00  sec  5.25 MBytes  44.0 Mbits/sec    4    108 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  54.0 MBytes  45.3 Mbits/sec  225            sender
+[  5]   0.00-10.03  sec  53.6 MBytes  44.9 Mbits/sec                  receiver
+
+iperf Done.
+client-03 | CHANGED | rc=0 >>
+Connecting to host 10.0.0.200, port 5203
+[  5] local 10.0.0.103 port 59012 connected to 10.0.0.200 port 5203
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  4.50 MBytes  37.7 Mbits/sec   37   86.8 KBytes       
+[  5]   1.00-2.00   sec  4.50 MBytes  37.8 Mbits/sec   16   69.5 KBytes       
+[  5]   2.00-3.00   sec  3.12 MBytes  26.2 Mbits/sec   31   52.1 KBytes       
+[  5]   3.00-4.00   sec  4.62 MBytes  38.8 Mbits/sec    4   85.5 KBytes       
+[  5]   4.00-5.00   sec  4.38 MBytes  36.7 Mbits/sec    4   85.5 KBytes       
+[  5]   5.00-6.00   sec  4.25 MBytes  35.6 Mbits/sec   22   70.8 KBytes       
+[  5]   6.00-7.00   sec  4.00 MBytes  33.6 Mbits/sec   10   60.1 KBytes       
+[  5]   7.00-8.00   sec  4.88 MBytes  40.9 Mbits/sec   24   73.5 KBytes       
+[  5]   8.00-9.00   sec  5.00 MBytes  41.9 Mbits/sec    6   90.8 KBytes       
+[  5]   9.00-10.00  sec  3.88 MBytes  32.4 Mbits/sec   14   61.5 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  43.1 MBytes  36.2 Mbits/sec  168            sender
+[  5]   0.00-10.01  sec  42.9 MBytes  35.9 Mbits/sec                  receiver
+
+iperf Done.
+client-20 | CHANGED | rc=0 >>
+Connecting to host 10.0.0.200, port 5220
+[  5] local 10.0.0.120 port 56172 connected to 10.0.0.200 port 5220
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  2.62 MBytes  22.0 Mbits/sec   40   58.8 KBytes       
+[  5]   1.00-2.00   sec  3.12 MBytes  26.2 Mbits/sec   25   56.1 KBytes       
+[  5]   2.00-3.00   sec  3.75 MBytes  31.5 Mbits/sec    8   56.1 KBytes       
+[  5]   3.00-4.00   sec  4.88 MBytes  40.9 Mbits/sec    2   70.8 KBytes       
+[  5]   4.00-5.00   sec  5.62 MBytes  47.2 Mbits/sec    0    115 KBytes       
+[  5]   5.00-6.00   sec  7.50 MBytes  62.9 Mbits/sec    0    154 KBytes       
+[  5]   6.00-7.00   sec  6.12 MBytes  51.4 Mbits/sec   34   76.1 KBytes       
+[  5]   7.00-8.00   sec  3.75 MBytes  31.5 Mbits/sec   19   49.4 KBytes       
+[  5]   8.00-9.00   sec  3.62 MBytes  30.4 Mbits/sec   26   72.1 KBytes       
+[  5]   9.00-10.00  sec  3.62 MBytes  30.4 Mbits/sec   18   57.4 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  44.6 MBytes  37.4 Mbits/sec  172            sender
+[  5]   0.00-10.01  sec  44.2 MBytes  37.1 Mbits/sec                  receiver
+
+iperf Done.
+client-15 | CHANGED | rc=0 >>
+Connecting to host 10.0.0.200, port 5215
+[  5] local 10.0.0.115 port 42992 connected to 10.0.0.200 port 5215
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  5.12 MBytes  42.9 Mbits/sec  121   85.5 KBytes       
+[  5]   1.00-2.00   sec  3.88 MBytes  32.5 Mbits/sec    2   74.8 KBytes       
+[  5]   2.00-3.00   sec  6.50 MBytes  54.5 Mbits/sec    0    123 KBytes       
+[  5]   3.00-4.00   sec  5.88 MBytes  49.3 Mbits/sec   22   61.5 KBytes       
+[  5]   4.00-5.00   sec  3.00 MBytes  25.2 Mbits/sec   10   65.5 KBytes       
+[  5]   5.00-6.00   sec  3.75 MBytes  31.5 Mbits/sec   10   77.5 KBytes       
+[  5]   6.00-7.00   sec  4.88 MBytes  40.9 Mbits/sec    4   61.5 KBytes       
+[  5]   7.00-8.00   sec  2.38 MBytes  19.9 Mbits/sec   39   33.4 KBytes       
+[  5]   8.00-9.00   sec  2.50 MBytes  21.0 Mbits/sec   22   33.4 KBytes       
+[  5]   9.00-10.00  sec  2.88 MBytes  24.1 Mbits/sec    4   65.5 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  40.8 MBytes  34.2 Mbits/sec  234            sender
+[  5]   0.00-10.01  sec  40.4 MBytes  33.8 Mbits/sec                  receiver
+
+iperf Done.
+client-05 | CHANGED | rc=0 >>
+Connecting to host 10.0.0.200, port 5205
+[  5] local 10.0.0.105 port 44194 connected to 10.0.0.200 port 5205
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  7.00 MBytes  58.6 Mbits/sec  289    103 KBytes       
+[  5]   1.00-2.00   sec  4.12 MBytes  34.6 Mbits/sec    8   81.5 KBytes       
+[  5]   2.00-3.00   sec  5.25 MBytes  44.0 Mbits/sec   18    102 KBytes       
+[  5]   3.00-4.00   sec  4.50 MBytes  37.8 Mbits/sec   10   85.5 KBytes       
+[  5]   4.00-5.00   sec  4.00 MBytes  33.6 Mbits/sec   16   76.1 KBytes       
+[  5]   5.00-6.00   sec  4.12 MBytes  34.6 Mbits/sec    3   89.5 KBytes       
+[  5]   6.00-7.00   sec  6.25 MBytes  52.5 Mbits/sec   47   92.2 KBytes       
+[  5]   7.00-8.00   sec  6.62 MBytes  55.6 Mbits/sec   24   94.9 KBytes       
+[  5]   8.00-9.00   sec  5.62 MBytes  47.2 Mbits/sec   11   74.8 KBytes       
+[  5]   9.00-10.00  sec  4.38 MBytes  36.7 Mbits/sec   25   68.1 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  51.9 MBytes  43.5 Mbits/sec  451            sender
+[  5]   0.00-10.01  sec  51.2 MBytes  42.9 Mbits/sec                  receiver
+
+iperf Done.
+client-06 | CHANGED | rc=0 >>
+Connecting to host 10.0.0.200, port 5206
+[  5] local 10.0.0.106 port 58802 connected to 10.0.0.200 port 5206
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  4.62 MBytes  38.8 Mbits/sec   38   76.1 KBytes       
+[  5]   1.00-2.00   sec  3.75 MBytes  31.4 Mbits/sec   55   68.1 KBytes       
+[  5]   2.00-3.00   sec  5.88 MBytes  49.4 Mbits/sec    0    114 KBytes       
+[  5]   3.00-4.00   sec  5.38 MBytes  45.1 Mbits/sec   34   60.1 KBytes       
+[  5]   4.00-5.00   sec  5.00 MBytes  41.9 Mbits/sec    0    104 KBytes       
+[  5]   5.00-6.00   sec  7.00 MBytes  58.7 Mbits/sec    0    144 KBytes       
+[  5]   6.00-7.00   sec  5.62 MBytes  47.2 Mbits/sec   59   70.8 KBytes       
+[  5]   7.00-8.00   sec  4.38 MBytes  36.7 Mbits/sec   14   61.5 KBytes       
+[  5]   8.00-9.00   sec  3.12 MBytes  26.2 Mbits/sec   27   48.1 KBytes       
+[  5]   9.00-10.00  sec  3.25 MBytes  27.2 Mbits/sec   10   58.8 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  48.0 MBytes  40.3 Mbits/sec  237            sender
+[  5]   0.00-10.01  sec  47.6 MBytes  39.9 Mbits/sec                  receiver
+
+iperf Done.
+client-19 | CHANGED | rc=0 >>
+Connecting to host 10.0.0.200, port 5219
+[  5] local 10.0.0.119 port 57462 connected to 10.0.0.200 port 5219
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  3.62 MBytes  30.4 Mbits/sec   64   70.8 KBytes       
+[  5]   1.00-2.00   sec  5.75 MBytes  48.2 Mbits/sec    3   80.2 KBytes       
+[  5]   2.00-3.00   sec  4.00 MBytes  33.6 Mbits/sec   18   72.1 KBytes       
+[  5]   3.00-4.00   sec  3.50 MBytes  29.4 Mbits/sec   21   50.8 KBytes       
+[  5]   4.00-5.00   sec  4.12 MBytes  34.6 Mbits/sec    7   68.1 KBytes       
+[  5]   5.00-6.00   sec  3.50 MBytes  29.4 Mbits/sec   20   37.4 KBytes       
+[  5]   6.00-7.00   sec  3.50 MBytes  29.4 Mbits/sec   12   54.8 KBytes       
+[  5]   7.00-8.00   sec  3.62 MBytes  30.4 Mbits/sec   45   52.1 KBytes       
+[  5]   8.00-9.00   sec  2.50 MBytes  21.0 Mbits/sec   62   40.1 KBytes       
+[  5]   9.00-10.00  sec  4.38 MBytes  36.7 Mbits/sec    0   88.2 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  38.5 MBytes  32.3 Mbits/sec  252            sender
+[  5]   0.00-10.01  sec  38.1 MBytes  32.0 Mbits/sec                  receiver
+
+iperf Done.
+client-08 | CHANGED | rc=0 >>
+Connecting to host 10.0.0.200, port 5208
+[  5] local 10.0.0.108 port 53484 connected to 10.0.0.200 port 5208
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  4.12 MBytes  34.6 Mbits/sec   33   52.1 KBytes       
+[  5]   1.00-2.00   sec  3.75 MBytes  31.5 Mbits/sec    9   66.8 KBytes       
+[  5]   2.00-3.00   sec  2.62 MBytes  22.0 Mbits/sec   30   56.1 KBytes       
+[  5]   3.00-4.00   sec  4.38 MBytes  36.7 Mbits/sec   15   74.8 KBytes       
+[  5]   4.00-5.00   sec  4.88 MBytes  40.9 Mbits/sec   16   88.2 KBytes       
+[  5]   5.00-6.00   sec  4.50 MBytes  37.8 Mbits/sec   19   46.8 KBytes       
+[  5]   6.00-7.00   sec  4.12 MBytes  34.6 Mbits/sec    3   62.8 KBytes       
+[  5]   7.00-8.00   sec  4.50 MBytes  37.7 Mbits/sec   12   81.5 KBytes       
+[  5]   8.00-9.00   sec  5.50 MBytes  46.1 Mbits/sec   16   94.9 KBytes       
+[  5]   9.00-10.00  sec  6.25 MBytes  52.4 Mbits/sec   10    110 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  44.6 MBytes  37.4 Mbits/sec  163            sender
+[  5]   0.00-10.01  sec  44.5 MBytes  37.3 Mbits/sec                  receiver
+
+iperf Done.
+client-09 | CHANGED | rc=0 >>
+Connecting to host 10.0.0.200, port 5209
+[  5] local 10.0.0.109 port 32828 connected to 10.0.0.200 port 5209
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  2.88 MBytes  24.1 Mbits/sec   39   52.1 KBytes       
+[  5]   1.00-2.00   sec  4.38 MBytes  36.7 Mbits/sec    1   42.8 KBytes       
+[  5]   2.00-3.00   sec  3.75 MBytes  31.5 Mbits/sec   56   64.1 KBytes       
+[  5]   3.00-4.00   sec  5.00 MBytes  41.9 Mbits/sec   28   74.8 KBytes       
+[  5]   4.00-5.00   sec  5.25 MBytes  44.0 Mbits/sec    4   85.5 KBytes       
+[  5]   5.00-6.00   sec  3.50 MBytes  29.4 Mbits/sec   33   70.8 KBytes       
+[  5]   6.00-7.00   sec  3.88 MBytes  32.5 Mbits/sec   42   60.1 KBytes       
+[  5]   7.00-8.00   sec  4.25 MBytes  35.7 Mbits/sec   13   54.8 KBytes       
+[  5]   8.00-9.00   sec  4.00 MBytes  33.6 Mbits/sec    8   73.5 KBytes       
+[  5]   9.00-10.00  sec  6.38 MBytes  53.5 Mbits/sec    0    120 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  43.2 MBytes  36.3 Mbits/sec  224            sender
+[  5]   0.00-10.00  sec  43.0 MBytes  36.1 Mbits/sec                  receiver
+
+iperf Done.
+client-11 | CHANGED | rc=0 >>
+Connecting to host 10.0.0.200, port 5211
+[  5] local 10.0.0.111 port 46218 connected to 10.0.0.200 port 5211
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  3.50 MBytes  29.3 Mbits/sec   88   34.7 KBytes       
+[  5]   1.00-2.00   sec  2.88 MBytes  24.1 Mbits/sec    9   37.4 KBytes       
+[  5]   2.00-3.00   sec  3.12 MBytes  26.2 Mbits/sec   10   62.8 KBytes       
+[  5]   3.00-4.00   sec  4.00 MBytes  33.6 Mbits/sec    3   84.2 KBytes       
+[  5]   4.00-5.00   sec  4.88 MBytes  40.9 Mbits/sec    2    102 KBytes       
+[  5]   5.00-6.00   sec  4.50 MBytes  37.8 Mbits/sec   27   49.4 KBytes       
+[  5]   6.00-7.00   sec  4.00 MBytes  33.5 Mbits/sec    3   65.5 KBytes       
+[  5]   7.00-8.00   sec  3.88 MBytes  32.5 Mbits/sec   19   57.4 KBytes       
+[  5]   8.00-9.00   sec  4.50 MBytes  37.8 Mbits/sec    6   54.8 KBytes       
+[  5]   9.00-10.00  sec  4.38 MBytes  36.7 Mbits/sec    3   78.8 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  39.6 MBytes  33.2 Mbits/sec  170            sender
+[  5]   0.00-10.02  sec  39.4 MBytes  33.0 Mbits/sec                  receiver
+
+iperf Done.
+client-12 | CHANGED | rc=0 >>
+Connecting to host 10.0.0.200, port 5212
+[  5] local 10.0.0.112 port 50834 connected to 10.0.0.200 port 5212
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  4.38 MBytes  36.7 Mbits/sec   99   57.4 KBytes       
+[  5]   1.00-2.00   sec  4.75 MBytes  39.8 Mbits/sec    0    100 KBytes       
+[  5]   2.00-3.00   sec  4.25 MBytes  35.7 Mbits/sec   19   64.1 KBytes       
+[  5]   3.00-4.00   sec  3.88 MBytes  32.5 Mbits/sec   19   60.1 KBytes       
+[  5]   4.00-5.00   sec  3.75 MBytes  31.5 Mbits/sec   17   54.8 KBytes       
+[  5]   5.00-6.00   sec  3.88 MBytes  32.5 Mbits/sec   14   46.8 KBytes       
+[  5]   6.00-7.00   sec  2.88 MBytes  24.1 Mbits/sec   43   45.4 KBytes       
+[  5]   7.00-8.00   sec  4.12 MBytes  34.6 Mbits/sec    0   89.5 KBytes       
+[  5]   8.00-9.00   sec  6.00 MBytes  50.4 Mbits/sec   15    102 KBytes       
+[  5]   9.00-10.00  sec  5.00 MBytes  41.8 Mbits/sec   22   88.2 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  42.9 MBytes  36.0 Mbits/sec  248            sender
+[  5]   0.00-10.01  sec  42.8 MBytes  35.8 Mbits/sec                  receiver
+
+iperf Done.
+client-17 | CHANGED | rc=0 >>
+Connecting to host 10.0.0.200, port 5217
+[  5] local 10.0.0.117 port 50216 connected to 10.0.0.200 port 5217
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  2.50 MBytes  20.9 Mbits/sec   13   54.8 KBytes       
+[  5]   1.00-2.00   sec  3.62 MBytes  30.4 Mbits/sec    5   16.0 KBytes       
+[  5]   2.00-3.00   sec  4.25 MBytes  35.6 Mbits/sec   49   68.1 KBytes       
+[  5]   3.00-4.00   sec  4.00 MBytes  33.5 Mbits/sec   27   58.8 KBytes       
+[  5]   4.00-5.00   sec  3.50 MBytes  29.4 Mbits/sec   15   61.5 KBytes       
+[  5]   5.00-6.00   sec  3.50 MBytes  29.4 Mbits/sec   13   74.8 KBytes       
+[  5]   6.00-7.00   sec  4.75 MBytes  39.8 Mbits/sec   21   61.5 KBytes       
+[  5]   7.00-8.00   sec  3.62 MBytes  30.4 Mbits/sec    9   58.8 KBytes       
+[  5]   8.00-9.00   sec  3.25 MBytes  27.3 Mbits/sec   21   64.1 KBytes       
+[  5]   9.00-10.00  sec  4.88 MBytes  40.9 Mbits/sec   10   81.5 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  37.9 MBytes  31.8 Mbits/sec  183            sender
+[  5]   0.00-10.01  sec  37.8 MBytes  31.6 Mbits/sec                  receiver
+
+iperf Done.
+client-18 | CHANGED | rc=0 >>
+Connecting to host 10.0.0.200, port 5218
+[  5] local 10.0.0.118 port 55278 connected to 10.0.0.200 port 5218
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  3.12 MBytes  26.2 Mbits/sec   66   40.1 KBytes       
+[  5]   1.00-2.00   sec  3.12 MBytes  26.2 Mbits/sec   33   58.8 KBytes       
+[  5]   2.00-3.00   sec  2.50 MBytes  21.0 Mbits/sec   12   52.1 KBytes       
+[  5]   3.00-4.00   sec  4.75 MBytes  39.9 Mbits/sec    0   97.5 KBytes       
+[  5]   4.00-5.00   sec  5.38 MBytes  45.1 Mbits/sec   11   72.1 KBytes       
+[  5]   5.00-6.00   sec  5.00 MBytes  41.9 Mbits/sec    5   53.4 KBytes       
+[  5]   6.00-7.00   sec  4.62 MBytes  38.8 Mbits/sec    0   97.5 KBytes       
+[  5]   7.00-8.00   sec  8.00 MBytes  67.1 Mbits/sec    0    144 KBytes       
+[  5]   8.00-9.00   sec  8.50 MBytes  71.3 Mbits/sec   31   96.2 KBytes       
+[  5]   9.00-10.00  sec  6.38 MBytes  53.5 Mbits/sec    8    107 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  51.4 MBytes  43.1 Mbits/sec  166            sender
+[  5]   0.00-10.01  sec  51.1 MBytes  42.8 Mbits/sec                  receiver
+
+iperf Done.
